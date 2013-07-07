@@ -4,8 +4,8 @@
 	"url" : "https://github.com/troysteinbauer/FirebaseExtern/",
 	"license": "MIT",
 	"tags": ["extern", "firebase", "javascript", "js", "node", "node.js"],
-	"description": "This library is useless in the same way on every platform",
-	"version": "1.0.0",
+	"description": "Wrapper for creating strongly typed firebase objects in Haxe.",
+	"version": "1.0.1",
 	"classPath": "src/",
-	"releasenote": "Initial release"
+	"releasenote": "Removed included compiled js and cleaned up"
 }
