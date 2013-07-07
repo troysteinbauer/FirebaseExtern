@@ -1,5 +1,6 @@
 {
 	"name": "FirebaseExtern",
+	"contributors": ["troysteinbauer"],
 	"url" : "https://github.com/troysteinbauer/FirebaseExtern/",
 	"license": "MIT",
 	"tags": ["extern", "firebase", "javascript", "js", "node", "node.js"],
