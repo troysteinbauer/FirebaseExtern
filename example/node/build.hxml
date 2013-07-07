@@ -1,0 +1,6 @@
+# Target and Main
+-js example.js
+-main Example
+
+# Include src
+-cp ../../src/
